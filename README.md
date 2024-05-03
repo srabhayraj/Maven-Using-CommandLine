@@ -133,5 +133,5 @@ Site Reports are stored in /target/site
 
 ## License
 
-[GNU Licence](LICENSE)
+[GPL Licence](LICENSE)
 
