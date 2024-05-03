@@ -129,7 +129,7 @@ Site Reports are stored in /target/site
 
 ## Contributors
 
-@srabhayraj
+[@srabhayraj](https://github.com/srabhayraj)
 
 ## License
 
